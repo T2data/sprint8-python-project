@@ -6,7 +6,7 @@ Python Foundations — Video Game Sales Analysis
 ## Description
 An analysis of video game sales using Python
 
-##Data Source
+## Data Source
 video_game_sales
 
 ## Methods and Tools
