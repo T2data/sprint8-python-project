@@ -1,5 +1,4 @@
-# sprint8-python-project
-Python Foundations
+Sprint8-Python-project (Python Foundations)
 
  # Video Game Sales Analysis
 
