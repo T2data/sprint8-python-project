@@ -1,10 +1,10 @@
 # sprint8-python-project
-Python Foundations — Video Game Sales Analysis
+Python Foundations
 
  # Video Game Sales Analysis
 
 ## Description
-An analysis of tje top 2o best selling video game using Python
+An analysis of tje top 20 best selling video game using Python
 
 ## Data Source
 video_game_sales
